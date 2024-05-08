@@ -9,7 +9,7 @@
 
 - Visit Leaderboard ➡️ [leaderboard](https://www.kaggle.com/competitions/recipe-for-rating-predict-food-ratings-using-ml/leaderboard)
 
-**Rank - 10
+**Rank - 10; 
 Team Name - Sayan Rakshit**
 
 The competition is to predict the rating of a recipe given the user's review. The dataset contains the following columns:
