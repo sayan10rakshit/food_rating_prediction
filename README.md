@@ -38,6 +38,7 @@ The competition is to predict the rating of a recipe given the user's review. Th
 - Optuna
 - Catboost
 
+## Info
 > [!NOTE]
 > This competition was hosted by MLP Project team of IIT Madras BS Degree [^1].
 
