@@ -170,6 +170,7 @@ for key, value in trial.params.items():
     print(f"    {key}: {value}")
 print("-" * 50)
 
+# ? The Best Params after running the optimization
 # params = {
 #     "depth": 7,
 #     "l2_leaf_reg": 4.617145077036919,
